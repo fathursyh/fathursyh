@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fathursyah Awandanu</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Drawing App](/)
+- 🔭 I’m currently working on Dassa Corp.
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://fathursyh-portfolio.netlify.app/](https://fathursyh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fathursyh.site](https://fathursyh.site)
 
 - 💬 Ask me about **React, Vue, Astro**
 
